@@ -87,15 +87,15 @@ As análises deverão ser documentadas em registros formais, de modo a permitir 
 
 Todos os ciclos de revisão de acessos deverão gerar registros formais e verificáveis, incluindo, quando aplicável:
 
-- inventário dos ambientes avaliados;
+- Inventário dos ambientes avaliados;
 
-- relação de usuários e permissões analisadas;
+- Relação de usuários e permissões analisadas;
 
-- riscos identificados;
+- Riscos identificados;
 
-- ações recomendadas e ações executadas;
+- Ações recomendadas e ações executadas;
 
-- responsáveis e datas da revisão.
+- Responsáveis e datas da revisão.
 
 As evidências deverão ser armazenadas em repositório corporativo controlado, com acesso restrito à TI e à Direção, garantindo integridade, rastreabilidade e disponibilidade para fins de auditoria, conformidade regulatória e prestação de contas.
 
