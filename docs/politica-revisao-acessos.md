@@ -1,7 +1,6 @@
 ## POL-SEG-001 – Política de Revisão Periódica de Acessos
 
-**Código:** POL-SEG-001
-
+**Código:** POL-SEG-001<br>
 **Versão:** 1.0
 
 **Data de criação:** 2026-03-25
