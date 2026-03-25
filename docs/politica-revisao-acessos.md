@@ -71,15 +71,15 @@ Cada ciclo de revisão deverá ser formalmente registrado, com evidências de an
 
 A revisão de acessos deverá seguir uma metodologia estruturada, contemplando no mínimo:
 
-- levantamento dos usuários, grupos e níveis de permissão por ambiente;
+- Levantamento dos usuários, grupos e níveis de permissão por ambiente;
 
-- análise de aderência entre cargo, função e acesso concedido;
+- Análise de aderência entre cargo, função e acesso concedido;
 
-- identificação de acessos excessivos, obsoletos ou incompatíveis com a função;
+- Identificação de acessos excessivos, obsoletos ou incompatíveis com a função;
 
-- avaliação de riscos associados aos acessos identificados;
+- Avaliação de riscos associados aos acessos identificados;
 
-- definição e registro das ações corretivas ou de manutenção dos acessos.
+- Definição e registro das ações corretivas ou de manutenção dos acessos.
 
 As análises deverão ser documentadas em registros formais, de modo a permitir rastreabilidade, evidência e validação em auditorias internas ou externas.
 
