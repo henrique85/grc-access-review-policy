@@ -57,12 +57,9 @@ Conta administrativa de emergência, utilizada exclusivamente em situações exc
 
 As revisões de acesso deverão ocorrer de forma periódica e programada, conforme a criticidade das informações e dos ambientes envolvidos:
 
-- Semestralmente para ambientes que armazenem informações estratégicas, financeiras, fiscais, contábeis ou dados pessoais sensíveis;
-
-- Anualmente para ambientes administrativos e operacionais de menor criticidade;
-
-- Extraordinariamente, sempre que ocorrer:
-
+- Semestralmente para ambientes que armazenem informações estratégicas, financeiras, fiscais, contábeis ou dados pessoais sensíveis;<br>
+- Anualmente para ambientes administrativos e operacionais de menor criticidade;<br>
+- Extraordinariamente, sempre que ocorrer:<br>
   - mudança de função do colaborador;
   - desligamento;
   - incidentes de segurança;
