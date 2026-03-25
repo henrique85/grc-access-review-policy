@@ -38,19 +38,19 @@ O escopo abrange todos os usuários, internos ou externos, com acesso lógico ao
 
 Para fins desta política, ficam definidos os seguintes papéis:
 
-- Direção / Alta Administração
+- Direção / Alta Administração<br>
 Responsável por patrocinar a política, aprovar diretrizes e apoiar as ações corretivas decorrentes das revisões de acesso.
 
-- Tecnologia da Informação (TI)
+- Tecnologia da Informação (TI)<br>
 Responsável por executar tecnicamente as revisões de acesso, manter registros, propor ajustes de permissões e garantir a aplicação do princípio do menor privilégio.
 
-- Gestores de Departamento
+- Gestores de Departamento<br>
 Responsáveis por validar a necessidade de acesso dos colaboradores sob sua gestão, confirmando se as permissões concedidas permanecem aderentes às funções exercidas.
 
-- Usuários
+- Usuários<br>
 Responsáveis por utilizar os acessos concedidos de forma adequada, comunicando alterações de função ou desligamentos que impactem suas permissões.
 
-- Conta Break Glass
+- Conta Break Glass<br>
 Conta administrativa de emergência, utilizada exclusivamente em situações excepcionais, com uso controlado, registrado e sujeito a revisão posterior.
 
 ### 4. Periodicidade da Revisão
