@@ -1,14 +1,13 @@
 ## POL-SEG-001 – Política de Revisão Periódica de Acessos
 
-**Código:** POL-SEG-001<br>
-**Versão:** 1.0<br>
-**Data de criação:** 2026-03-25<br>
-**Última revisão:** 2026-03-25<br>
-**Próxima revisão:** 2027-03-25<br>
-**Aprovado por:** Direção<br>
-**Classificação:** Interno<br>
-**Domínio:** Segurança da Informação
-
+- **Código:** POL-SEG-001  
+- **Versão:** 1.0  
+- **Data de criação:** 2026-03-25  
+- **Última revisão:** 2026-03-25  
+- **Próxima revisão:** 2027-03-25  
+- **Aprovado por:** Direção  
+- **Classificação:** Interno  
+- **Domínio:** Segurança da Informação  
 ---
 
 ### 1. Objetivo
@@ -39,28 +38,28 @@ O escopo abrange todos os usuários, internos ou externos, com acesso lógico ao
 
 Para fins desta política, ficam definidos os seguintes papéis:
 
-- Direção / Alta Administração<br>
+- Direção / Alta Administração  
 Responsável por patrocinar a política, aprovar diretrizes e apoiar as ações corretivas decorrentes das revisões de acesso.
 
-- Tecnologia da Informação (TI)<br>
-Responsável por executar tecnicamente as revisões de acesso, manter registros, propor ajustes de permissões e garantir a aplicação do princípio do menor privilégio.
+- Tecnologia da Informação (TI)  
+Responsável por executar e operacionalizar tecnicamente as revisões de acesso, manter registros, propor ajustes de permissões e garantir a aplicação do princípio do menor privilégio.
 
-- Gestores de Departamento<br>
+- Gestores de Departamento  
 Responsáveis por validar formalmente a necessidade de acesso dos colaboradores sob sua gestão, confirmando se as permissões concedidas permanecem aderentes às funções exercidas.
 
-- Usuários<br>
+- Usuários  
 Responsáveis por utilizar os acessos concedidos de forma adequada, comunicando alterações de função ou desligamentos que impactem suas permissões.
 
-- Conta Break Glass<br>
+- Conta Break Glass  
 Conta administrativa de emergência, utilizada exclusivamente em situações excepcionais, com uso controlado, registrado e sujeito a revisão posterior.
 
 ### 4. Periodicidade da Revisão
 
 As revisões de acesso deverão ocorrer de forma periódica e programada, conforme a criticidade das informações e dos ambientes envolvidos:
 
-- Semestralmente para ambientes que armazenem informações estratégicas, financeiras, fiscais, contábeis ou dados pessoais sensíveis;<br>
-- Anualmente para ambientes administrativos e operacionais de menor criticidade;<br>
-- Extraordinariamente, sempre que ocorrer:<br>
+- Semestralmente para ambientes que armazenem informações estratégicas, financeiras, fiscais, contábeis ou dados pessoais sensíveis;  
+- Anualmente para ambientes administrativos e operacionais de menor criticidade;  
+- Extraordinariamente, sempre que ocorrer:  
   - mudança de função do colaborador;
   - desligamento;
   - incidentes de segurança;
@@ -69,6 +68,8 @@ As revisões de acesso deverão ocorrer de forma periódica e programada, confor
 Cada ciclo de revisão deverá ser formalmente registrado, com evidências de análise, decisão e ações realizadas.
 
 A classificação de criticidade deverá ser definida com base na classificação da informação da organização.
+
+Os prazos definidos deverão ser monitorados e controlados pela área de TI.
 
 ### 5. Metodologia de Revisão
 
