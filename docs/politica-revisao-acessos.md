@@ -6,15 +6,16 @@
 **Última revisão:** 2026-03-25<br>
 **Próxima revisão:** 2027-03-25<br>
 **Aprovado por:** Direção<br>
-**Classificação:** Interno
+**Classificação:** Interno<br>
+**Domínio:** Segurança da Informação
 
 ---
 
 ### 1. Objetivo
 
-Estabelecer diretrizes para a revisão periódica de acessos aos ambientes digitais da organização, assegurando que permissões concedidas a usuários estejam alinhadas às suas funções, ao princípio do menor privilégio e à segregação de funções.
+Estabelecer diretrizes para a revisão periódica de acessos aos ambientes digitais da organização, assegurando que permissões concedidas a usuários estejam alinhadas às suas funções, ao **princípio do menor privilégio** e à **segregação de funções (SoD)**.
 
-Esta política visa reduzir riscos de acesso indevido, fortalecer a governança de identidade e acesso e garantir conformidade com a LGPD e as boas práticas da ISO/IEC 27001, por meio de ciclos formais, documentados e auditáveis de revisão.
+Esta política visa reduzir riscos de acesso indevido, fortalecer a governança de identidade e acesso e garantir conformidade com a **LGPD** e as boas práticas da **ISO/IEC 27001**, por meio de ciclos formais, documentados e auditáveis de revisão.
 
 ---
 
@@ -45,7 +46,7 @@ Responsável por patrocinar a política, aprovar diretrizes e apoiar as ações 
 Responsável por executar tecnicamente as revisões de acesso, manter registros, propor ajustes de permissões e garantir a aplicação do princípio do menor privilégio.
 
 - Gestores de Departamento<br>
-Responsáveis por validar a necessidade de acesso dos colaboradores sob sua gestão, confirmando se as permissões concedidas permanecem aderentes às funções exercidas.
+Responsáveis por validar formalmente a necessidade de acesso dos colaboradores sob sua gestão, confirmando se as permissões concedidas permanecem aderentes às funções exercidas.
 
 - Usuários<br>
 Responsáveis por utilizar os acessos concedidos de forma adequada, comunicando alterações de função ou desligamentos que impactem suas permissões.
@@ -67,6 +68,8 @@ As revisões de acesso deverão ocorrer de forma periódica e programada, confor
 
 Cada ciclo de revisão deverá ser formalmente registrado, com evidências de análise, decisão e ações realizadas.
 
+A classificação de criticidade deverá ser definida com base na classificação da informação da organização.
+
 ### 5. Metodologia de Revisão
 
 A revisão de acessos deverá seguir uma metodologia estruturada, contemplando no mínimo:
@@ -79,7 +82,7 @@ A revisão de acessos deverá seguir uma metodologia estruturada, contemplando n
 
 - Avaliação de riscos associados aos acessos identificados;
 
-- Definição e registro das ações corretivas ou de manutenção dos acessos.
+- Definição, registro e evidência das ações corretivas ou de manutenção dos acessos.
 
 As análises deverão ser documentadas em registros formais, de modo a permitir rastreabilidade, evidência e validação em auditorias internas ou externas.
 
@@ -97,10 +100,14 @@ Todos os ciclos de revisão de acessos deverão gerar registros formais e verifi
 
 - Responsáveis e datas da revisão.
 
-As evidências deverão ser armazenadas em repositório corporativo controlado, com acesso restrito à TI e à Direção, garantindo integridade, rastreabilidade e disponibilidade para fins de auditoria, conformidade regulatória e prestação de contas.
+As evidências deverão ser armazenadas em repositório corporativo controlado, com acesso restrito à TI e à Direção, garantindo integridade, rastreabilidade, disponibilidade e não repúdio das informações para fins de auditoria, conformidade regulatória e prestação de contas.
 
 ### 7. Disposições Finais e Vigência
 
 Esta política entra em vigor a partir de sua aprovação pela Direção e deverá ser revisada periodicamente, ou sempre que houver alterações relevantes nos ambientes tecnológicos, na legislação aplicável ou na estrutura organizacional.
 
-O não cumprimento das diretrizes aqui estabelecidas poderá implicar riscos operacionais, legais e de segurança da informação, devendo ser tratado conforme as políticas internas da organização.
+### 8. Conformidade e Penalidades
+
+O não cumprimento desta política poderá resultar em medidas administrativas, disciplinares ou legais, conforme as normas internas da organização e a legislação vigente.
+
+Casos de descumprimento deverão ser formalmente registrados, analisados e tratados pela área de Tecnologia da Informação em conjunto com a Direção.
